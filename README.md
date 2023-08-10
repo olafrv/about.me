@@ -30,6 +30,6 @@ This is a document to describe shortly my leadership style.
 
 * **Operations:** I know about all the Agile and cool Dev*Ops enterprise [parafhernalia](https://en.wikipedia.org/wiki/Paraphernalia) that is out there, but when it comes down to [ITOps](https://www.ibm.com/topics/it-operations) the final goal is to be near zero downtime, lowest complexity and keep things as secure as possible, so my arguments and decisions lean towards the lower risks options ([ITIL](https://en.wikipedia.org/wiki/ITIL)-alike).
 
-* **Legacy:** I think of my work as the [legacy](https://en.wikipedia.org/wiki/Legacy_system) I left to others, indeed anything people is doing right now is the legacy of tomorrow. So expect the work people do is the best considering "who, what and where" is available at that time but also those whoever will deal with it afterwards (as much as possible).
+* **Legacy:** I think of my work as the [legacy](https://en.wikipedia.org/wiki/Legacy_system) I left to others, indeed anything people is doing right now is the legacy of tomorrow. So I expect the work people do is the best considering "who, what and where" is available at that time but also those whoever will deal with it afterwards (as much as possible).
 
 * **Meetings:** At work, I will (try regularly) to schedule them with people to discuss personal (if they don't mind →   I've nothing to hide), business or technical topics, if not feel free to book me anytime.
