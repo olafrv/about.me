@@ -26,7 +26,7 @@ This is a document to describe shortly my leadership style.
 
 * **Delegation:** I exercise the [delegation poker](https://management30.com/practice/delegation-poker/) but when I see things burning or people request help, I will jump into their side, sometimes I will be insanely deep until exhaustion (i.e. root cause, next steps).
 
-* **The little things:** I like very much attention to details as the little things always caught us (if people currently don't mind about it). I believe most of the post-mortems (in life) happen because the little things are just ignored (many times in purpose or even with valid reasons). So tackling the little things can save people a lot of extra working hours (aka. life time).
+* **The little things:** I like very much attention to details as the little things always caught us (even if people currently don't mind about it). I believe most of the post-mortems (in life) happen because the little things are just ignored (many times in purpose or even with valid reasons). So tackling the little things can save people a lot of extra working hours (aka. life time).
 
 * **Operations:** I know about all the Agile and cool Dev*Ops enterprise [parafhernalia](https://en.wikipedia.org/wiki/Paraphernalia) that is out there, but when it comes down to [ITOps](https://www.ibm.com/topics/it-operations) the final goal is to be near zero downtime, lowest complexity and keep things as secure as possible, so my arguments and decisions lean towards the lower risks options ([ITIL](https://en.wikipedia.org/wiki/ITIL)-alike).
 
