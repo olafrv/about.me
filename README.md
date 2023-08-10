@@ -8,7 +8,7 @@
 
 **Passionate:** I’m very passionate of what I do especially for others, I’m very responsive on chats and e-mails and ad-hoc meetings, but also like no crazy shit on Fridays so I can expend the weekend in peace with myself or my family.
 
-**Coding:** I was a full employed developer but still active most of the time in side projects, here what I'm able to share without infringing copyrights of current and previous employers.
+**Coding:** I was a full employed developer but still active most of the time in side projects, [here](https://github.com/olafrv) what I'm able to share without infringing copyrights of current and previous employers.
 
 # About us
 
