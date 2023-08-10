@@ -8,7 +8,7 @@ This is a document to describe shortly my leadership style.
 
 * **Memory:** I can [recall mostly everything than happen in my life](https://en.wikipedia.org/wiki/Eidetic_memory) with a lot of details (e.g. faces, text on a page in specific books, emails threads, random chats, movies scripts, emotions), it is both a blessing and curse. Don't get surprised if, I mention something good or bad from our past together, don't take it personally, past is important for improving the future (e.g. World War II).
 
-* **Storytelling:** I like [storytelling](https://en.wikipedia.org/wiki/Storytelling), most (introverts) techies don't. But is the only way to give people more context instead of harsh instructions like a paid assassin, since anyways after too many killings without sense people will start asking: why?, so I'm saving that time upfront. Sometime I take shortcuts using [memes](https://imgflip.com/memegenerator) and leave the story behind to people.
+* **Storytelling:** I like [storytelling](https://en.wikipedia.org/wiki/Storytelling), most (introverts) techies don't. But is the only way to give people more context instead of harsh instructions like a paid assassin, since anyways after too many killings without sense people will start asking: why?, so I'm saving that time upfront. Sometime I take shortcuts using [memes](https://imgflip.com/memegenerator) and leave the story behind it to people's mind.
 
 * **Passionate:** I’m very passionate of what I do especially for others, I’m very responsive on chats and e-mails and ad-hoc meetings, but also like no crazy shit on Fridays so I can expend the weekend in peace with myself or my family.
 
