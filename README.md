@@ -18,7 +18,7 @@ This is a document to describe shortly my leadership style.
 
 * **Modesty:** I'm humble leader than bossy person also mostly integrative under stressful situations, in the same line, I expect people to flawlessly work daily within the team while pulling others they need to accomplish their work.
 
-* **Common Sense:** I appreciate [common sense](https://en.wikipedia.org/wiki/Common_sense) ruling over any (over) engineering or (fancy) project dogmas, usually time will tell, but people always forget that Frankenstein since ages is a tragic history.
+* **Common Sense:** I appreciate [common sense](https://en.wikipedia.org/wiki/Common_sense) ruling over any (over) engineering or (fancy) project dogmas, usually time will tell, but people always forget that [Frankenstein](https://en.wikipedia.org/wiki/Frankenstein) since ages is a tragic history.
 
 * **Self-Drive:** I believe “it does not make sense to hire smart people and (most of the time) then tell what to do”, so for challenges we may face, I expect people to come with ideas to bounce for approval.
 
