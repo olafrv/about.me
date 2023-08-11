@@ -10,7 +10,7 @@ I was raised as German in [Venezuela](https://de.wikipedia.org/wiki/Venezuela), 
 
 ## Memory
 
-I can [recall mostly everything than happen in my life](https://en.wikipedia.org/wiki/Eidetic_memory) with a lot of details (e.g. faces, text on a page in specific books, emails threads, random chats, movies scripts, emotions), it is both a blessing and curse. Don't get surprised if, I mention something good or bad from our past together, don't take it personally, past is important for improving the future (e.g. World War II).
+I can [recall mostly everything than happen in my life](https://en.wikipedia.org/wiki/Eidetic_memory) with a lot of details (e.g. faces, text on a page in specific books, emails threads, random chats, movies scripts, emotions), it is both a blessing and a curse. Don't get surprised if, I mention something good or bad from our past together, don't take it personally, past is important for improving the future (e.g. World War II).
 
 ## Storytelling
 
