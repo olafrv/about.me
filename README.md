@@ -14,7 +14,7 @@ I can [recall mostly everything than happen in my life](https://en.wikipedia.org
 
 ## Storytelling
 
-I like [storytelling](https://en.wikipedia.org/wiki/Storytelling), most (introverts) techies don't. But is the only way to give people more context instead of harsh instructions like a paid assassin, since anyways after too many killings without sense people will start asking: why?, so I'm saving that time upfront. Sometime I take shortcuts using [memes](https://imgflip.com/memegenerator) and leave the story behind it to people's mind.
+I like [storytelling](https://en.wikipedia.org/wiki/Storytelling), most (introverts) techies don't. But is the only way to give people more context instead of harsh instructions like a paid assassin, since anyways after too many killings without sense people will start asking: why?, so I'm saving that time upfront. Sometimes I take shortcuts using [memes](https://imgflip.com/memegenerator) and leave the story behind it to people's mind.
 
 ## Passionate
 
