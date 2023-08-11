@@ -60,4 +60,4 @@ I think of my work as the [legacy](https://en.wikipedia.org/wiki/Legacy_system) 
 
 ## Meetings
 
-(At work) I will (try regularly) to schedule them with people to discuss personal (if they don't mind →   I've nothing to hide), business or technical topics, if not feel free to book me anytime.
+(At work) I will try (regularly) to schedule them with people to discuss personal (if they don't mind →   I've nothing to hide), business or technical topics, if not feel free to book me anytime.
